@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @neerajnerlekar
-- 👀 I’m interested in working with a team to help develop new use cases and in the adoption of blockchain technology which will let me gain valuable experience and advance my career.
-- 🌱 I’m currently learning DApp develop, Solidity Smart Contracts and testing, REACT, Hyperledge BESU and Cloud Computing.
+- 👀 The future will be green or not at all, and it is worth fighting for. I am a self-taught developer passionate about learning and developing for climate change. 
+- 🌱 I’m currently learning DApp develop, Solidity Smart Contracts and testing, REACT, Hyperledger BESU & Fabric and Cloud Computing.
 - 💞️ I’m looking to collaborate on Gsuite, Teams..
 - 📫 Reach me via email => neeraj.nerlekar@gmail.com
 
